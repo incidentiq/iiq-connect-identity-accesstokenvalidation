@@ -7,12 +7,12 @@
   <PropertyGroup>
     <Description>ASP.NET Core authentication handler to validate JWT and reference tokens from IdentityServer4</Description>
     <Authors>Brock Allen;Dominick Baier</Authors>
-    <PackageId>IdentityServer4.AccessTokenValidation</PackageId>
-    <PackageTags>OAuth2;OAuth 2.0;OpenID Connect;Security;Identity;IdentityServer;Bearer tokens</PackageTags>
+    <PackageId>IdentityServerIQ.AccessTokenValidation</PackageId>
+    <PackageTags>IncidentIQ;OAuth2;OAuth 2.0;OpenID Connect;Security;Identity;IdentityServer;Bearer tokens</PackageTags>
     <PackageIcon>icon.jpg</PackageIcon>
-    <PackageProjectUrl>https://github.com/IdentityServer/IdentityServer4.AccessTokenValidation</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/incidentiq/iiq-connect-identity-accesstokenvalidation</PackageProjectUrl>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
-    <PackageReleaseNotes>https://github.com/IdentityServer/IdentityServer4/releases</PackageReleaseNotes>
+    <PackageReleaseNotes>https://github.com/incidentiq/iiq-connect-identity-accesstokenvalidation/releases</PackageReleaseNotes>
     
     <AssemblyOriginatorKeyFile>../key.snk</AssemblyOriginatorKeyFile>
     <SignAssembly>true</SignAssembly>
